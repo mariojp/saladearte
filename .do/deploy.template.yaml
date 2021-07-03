@@ -1,0 +1,8 @@
+spec:
+  name: saladearte
+  static_sites:
+  - environment_slug: html
+    git:
+      branch: main
+      repo_clone_url: https://github.com/mariojp/saladearte.git
+    name: saladearte
